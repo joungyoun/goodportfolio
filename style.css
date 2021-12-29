@@ -40,7 +40,7 @@
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   margin: 0;
 }
 
@@ -114,7 +114,7 @@ p {
 .navbar__logo {
   font-size: var(--font-medium);
   font-weight: var(--weight-semi-bold);
-  color: white;
+  color: #389f66;
 }
 
 .navbar__menu {
@@ -146,7 +146,7 @@ p {
 
 /* Home */
 #home {
-  background: url('imgs/home-background.png') center/cover no-repeat;
+  background: black center/cover no-repeat;
   padding: 40px;
   padding-top: 120px;
   text-align: center;
@@ -399,7 +399,7 @@ p {
 }
 
 .project__description h3:after {
-  content: '';
+  content: "";
   display: block;
   position: relative;
   left: 50%;
